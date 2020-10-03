@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Sankarganesh Eswaran."
-layout: archive
+layout: home
 author_profile: true
 ---
 
