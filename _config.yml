@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "sankarge"
+title                    : "Sankarganesh Eswaran"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sankarganesh Eswaran"
+name                     : ""
 description              : "An amazing website."
 url                      : "https://sankarge.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
