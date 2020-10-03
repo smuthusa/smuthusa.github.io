@@ -1,9 +1,7 @@
 ---
-permalink: /about/
-title: "About"
+layout: page
+title: About the Theme
 ---
-
-{% include base_path %}
 
 - 9 years of intensive full-stack software development experience
 - Designed several high scaling, non-blocking microservice apps in java/Spring world
