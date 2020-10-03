@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Sankarganesh Eswaran."
+layout: archive
 ---
 
 - 9 years of intensive full-stack software development experience
