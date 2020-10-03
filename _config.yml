@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Sankarganesh Eswaran"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sankarge"
+name                     : "Sankarganesh Eswaran"
 description              : "An amazing website."
 url                      : "https://sankarge.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/sankarge"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
