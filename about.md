@@ -1,3 +1,8 @@
+---
+title: "About"
+show_date: true
+---
+
 - 9 years of intensive full-stack software development experience
 - Designed several high scaling, non-blocking microservice apps in java/Spring world
 - Intensive work experience in developing cloud native, distributed micro services with modern tools like mongoDB, kafka streams, kafka connect, kubernetes, Google cloud
