@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 excerpt: "About Sankarganesh Eswaran."
 layout: home
