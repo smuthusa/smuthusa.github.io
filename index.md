@@ -1,5 +1,5 @@
 ---
-permalink: /i
+permalink: /index.html
 excerpt: "About Sankarganesh Eswaran."
 layout: home
 author_profile: true
