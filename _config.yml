@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "Optimistic Nihilist"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : youtube [https://www.youtube.com/watch?v=MBRqu0YOH14]
 name                     : "Sankarganesh Eswaran"
 description              : "Personal blog of Sankarganesh Eswaran."
 url                      : "https://sankarge.github.io/"

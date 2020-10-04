@@ -12,9 +12,9 @@ author_profile: true
 - Strong knowledge in linux, java ecosystem with extensive experience with Spring, jpa, no-sql and programming design patterns
 - Extensively worked on distributed systems, scaling & performance tuning, GC optimization, I/O optimization, memory leak fixing and sql query optimizations
 - Good experience in TDD, BDD autoon with cucumber, robot, junit
-- Strong believer in KISS principle, loves fast paced, challenging environment
-- Some of my projects Match [https://github.com/sankarge/Match],Shopping [https://github.com/sankarge/ShopApp]
-- ¯\_(ツ)_/¯ After all, there are no real web or cloud but just the semi conductors and wires
+- Strong believer in [KISS principle](https://people.apache.org/~fhanik/kiss.html), loves fast paced, challenging environment
+- Some of my projects [Match](https://github.com/sankarge/Match) & [Shopping](https://github.com/sankarge/ShopApp)
+- ¯\\\_(ツ)_/¯ After all, there are no real web or cloud but just the semi conductors and wires
 
 ### Technical Expertise
 
