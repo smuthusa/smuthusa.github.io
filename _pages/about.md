@@ -1,6 +1,5 @@
 ---
 permalink: /about
-title: "About"
 excerpt: "About Sankarganesh Eswaran."
 layout: home
 author_profile: true

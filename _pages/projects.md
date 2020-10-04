@@ -1,6 +1,5 @@
 ---
 permalink: /projects
-title: "About"
 excerpt: "projects of Sankarganesh Eswaran."
 layout: home
 author_profile: true
