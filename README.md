@@ -1,3 +1,3 @@
-sankarge.github (https://sankarge.github.io/)
+[sankarge.github](https://sankarge.github.io/)
 
 Good artists copy; great artists steal: https://github.com/mmistakes/minimal-mistakes
