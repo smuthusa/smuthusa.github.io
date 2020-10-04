@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Optimistic Nihilist"
+title                    : "Optimistic Nihilist ¯\\\_(ツ)_/¯"
 title_separator          : "-"
 subtitle                 :
 name                     : "Sankarganesh Eswaran"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Sankarganesh Eswaran"
   avatar           : "images/2.jpeg"
-  bio              : "Strong believer in Emergence theory, KISS principle. After all, there is no real web or cloud only the semi conductors and wires ¯\_(ツ)_/¯"
+  bio              : "Strong believer in Emergence theory, KISS principle. After all, there is no real web or cloud only the semi conductors and wires"
   location         : "Berlin"
   email            : "sankar.e555@gmail.com"
   links:
