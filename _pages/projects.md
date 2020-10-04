@@ -18,12 +18,12 @@ Our immediate ambition is to migrate most of our platform to the cloud|
 
 [Nokia [Alcatel-Lucent]](https://www.nokia.com/), Chennai, India, 2014-2019|
 ---|
-Project 6: Dev lead, Analytics AI|
+Project 6: Analytics AI|
 Developing a new analytics application from scratch on top existing platforms in a microservice era is full of fun and challenges and all learning stuff|
 Especially it requires to unlearn and relearn many of the known stuffs against distributed systems starting from multiple code repos, CI/CD, logging, monitoring, security to deploying into docker-kubernetes world|
-Project 5: Architect - DevOps team|
+Project 5: DevOps team|
 Migrating a 12 years old java based platform into a new DevOps CI based platform has a lot of fun and needs painstaking technical skills from dockerizing, shell commands, python, groovy, robot scripts etc|
-Especially it involves merging multiple GIT repo into one, groovy script adaptation from the scratch, and much more. I’ve led the team of two senior software engineers and successfully accomplished this goal|
+Especially it involves merging multiple GIT repo into one, groovy script adaptation from the scratch, and much more|
 Project 4 - Product:	[Network Analyzer – Copper & Fiber](https://www.nokia.com/networks/solutions/home-and-access-analytics/)|
 Designing features on top of micro services platforms gave me an opportunity to write software modules with high performance in large scales with auto scaling|
 Apart from designing, end-end feature development, fixing the scalability issues & performance tuning were the other fun things I did|
@@ -39,4 +39,4 @@ I have been part of a Management System called Element Manager which is capable 
 Features like Performance monitoring; Discovery, Accounting, managing SOAP based web services etc were so challenging one which gave me the most valuable learning curve in my career|
 Project 1 - Product: NetMan – DNMS |
 After the training process, I was deployed in NetMan project, which is the core product of Dhyan, which is well known for its EMS/NMS based FCAPS solution in the market which gave me a wide range of opportunity to mold myself to be a better professional|
-I was asked to do a major change over the Security module|
+Wrote code that I never want to see again, made big mistakes and learned it the hard way :P|
