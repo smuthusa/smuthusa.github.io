@@ -1,10 +1,10 @@
 ---
 permalink: /projects
 excerpt: "projects of Sankarganesh Eswaran."
-title: Companies & Projects
 layout: home
 author_profile: true
 ---
+#### Companies & Projects
 
 [Idealo](https://www.idealo.de/), Berlin, Germany. Senior software engineer, 2019 - Current*|
 ---------|

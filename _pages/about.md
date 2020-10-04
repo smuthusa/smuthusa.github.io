@@ -16,7 +16,7 @@ Strong believer in [KISS principle](https://people.apache.org/~fhanik/kiss.html)
 Some of my projects [Match](https://github.com/sankarge/Match) & [Shopping](https://github.com/sankarge/ShopApp)|
 ¯\\\_(ツ)_/¯ After all, there are no real web or cloud but just the semi conductors and wires|
 
-### Technical Expertise
+#### Technical Expertise
 
 Area | Expertise
 -----|----------
@@ -33,7 +33,7 @@ Test Automation |		Robot framework, Cucumber, JUnit 5
 CI/CD |			Jenkins2, Argo CD
 POC |			Kotlin, Hadoop, HDFS, Spark, Scala, Hive, Pig, AI/ML
 
-### Education
+#### Education
 
 Course | year | Institution | Score (%)
 ------|-------|-------------|----------
