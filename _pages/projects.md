@@ -4,7 +4,7 @@ excerpt: "projects of Sankarganesh Eswaran."
 layout: home
 author_profile: true
 ---
-#### Companies & Projects
+##### Companies & Projects
 
 [Idealo](https://www.idealo.de/), Berlin, Germany. Senior software engineer, 2019 - Current*|
 ---------|
