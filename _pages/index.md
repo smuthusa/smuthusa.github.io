@@ -7,6 +7,7 @@ author_profile: true
 Summary |
 -----|
 9 years of intensive full-stack software development experience|
+Prefers to `build the right thing` more than`building the thing right`|
 Designed several high scaling, non-blocking microservice apps in java/Spring world |
 Intensive work experience in developing cloud native, distributed micro services with modern tools like mongoDB, kafka streams, kafka connect, kubernetes, Google cloud|
 Strong knowledge in linux, java ecosystem with extensive experience with Spring, jpa, no-sql and programming design patterns |
