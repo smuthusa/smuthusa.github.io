@@ -40,3 +40,6 @@ Course | year | Institution | Score (%)
 B. Tech-IT |2007-2011| Maharaja Prithvi Engineering College| 85%
 HSSC (12th)| 2005-2007|I.T.O.Hr.Sec.School| 86%
 SSLC (10th)|2005|I.T.O. Hr.Sec.School|93%
+
+##### Resume
+[Sankarganesh_Eswaran](resume/Resume_Sankarganesh.pdf)
