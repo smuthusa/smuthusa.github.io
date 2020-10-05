@@ -13,7 +13,7 @@ Strong knowledge in linux, java ecosystem with extensive experience with Spring,
 Extensively worked on distributed systems, scaling & performance tuning, GC optimization, I/O optimization, memory leak fixing and sql query optimizations |
 Good experience in TDD, BDD autoon with cucumber, robot, junit|
 Strong believer in [KISS principle](https://people.apache.org/~fhanik/kiss.html), loves fast paced, challenging environment|
-Some of my projects [Blog as code](https://github.com/sankarge/sankarge.github.io), [Match](https://github.com/sankarge/Match) & [Shopping](https://github.com/sankarge/ShopApp)|
+Some of my projects [Match](https://github.com/sankarge/Match), [Blog as code](https://github.com/sankarge/sankarge.github.io) & [Shopping](https://github.com/sankarge/ShopApp)|
 ¯\\\_(ツ)_/¯ After all, there are no real web or cloud but just the semi conductors and wires|
 
 #### Technical Expertise
