@@ -26,7 +26,7 @@ Modern tools |			kafka streams, kafka connect, kubernetes, Google cloud
 Frameworks |			Spring ecosystem:  boot, data, cloud, kafka
 Web Technologies |		JavaScript, HTML & CSS, servlets, JSP
 Web Frameworks |		Swagger, ReactJS, Wicket, jQuery, Prototype, Ajax
-RDBMS |			MongoDB, MariaDB, MySQL
+Database |			MongoDB, MariaDB, MySQL
 Building Scripts |		Maven, ANT
 Repositories |			Git, Gerrit
 Configuration Mgmt |		Ansible, Puppet
