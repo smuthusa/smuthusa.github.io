@@ -8,12 +8,11 @@ author_profile: true
 
 [Idealo](https://www.idealo.de/), Berlin, Germany. Senior software engineer, 2019 - Current*|
 ---------|
-Being part of the leading German e-commerce online shopping platforms is all new, all fun and challenging|
+Being part of the leading German [e-commerce](https://www.idealo.de/) online shopping platforms is all new, all fun and challenging|
 I had an opportunity to work with all modern tools including java 11, MongoDB, Kafka, aws, Rancher, OpenShift, reactive programming, kotlin, spring cloud, spring data, Prometheus, Grafana, Elastic search, Kibana|
 I've been exposed to a lot of e-commerce things like user tracking, A/B testing, SEO, SEM etc|
 Interesting part was keeping the system 24/7 live while constantly updating the website through fully automated build pipelines|
-Our immediate ambition is to migrate most of our platform to the cloud|
-
+Our current vision is to migrate to aws|
 
 [Nokia [Alcatel-Lucent]](https://www.nokia.com/), Chennai, India, 2014-2019|
 ---|
