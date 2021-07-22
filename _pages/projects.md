@@ -8,11 +8,22 @@ author_profile: true
 
 [Idealo](https://www.idealo.de/), Berlin, Germany. Senior software engineer, 2019 - Current*|
 ---------|
-Being part of the leading German [e-commerce](https://www.idealo.de/) online shopping platforms is all new, all fun and challenging|
-I had an opportunity to work with all modern tools including java 11, MongoDB, Kafka, aws, Rancher, OpenShift, reactive programming, kotlin, spring cloud, spring data, Prometheus, Grafana, Elastic search, Kibana|
-I've been exposed to a lot of e-commerce things like user tracking, A/B testing, SEO, SEM etc|
-Interesting part was keeping the system 24/7 live while constantly updating the website through fully automated build pipelines|
-Our current vision is to migrate to aws|
+Proposed an improvement in design to tackle the growing maintenance issues with several microservice applications|
+This solution includes grouping applications with strong domain boundaries|
+Created a library, that is used by 10+ applications to simplify kaka app creation with common error handling|
+Reduced the Front-end JVM applications heap usage from 80GB to 8GB after the in-memory cache became obsolete|
+This is done after several iterations of testing & fine-tuning the configurations + G1GC garbage collection switching|
+Improved the performance of the offerlist-api application with several proposals and improvements|
+https://medium.com/idealo-tech-blog/advanced-mongodb-performance-tuning-2ddcd01a27d2|
+Initiated and drove kafka-connect & spring-clod-streams migration for 10+ applications that help to keep the projects with a modern tech stack|
+Made several design proposals that help in the future evolution, including using AWS S3 bucket as an event store|
+Helped several teams to migrate the on-premise logging solution to AWS|
+Helped in various ops & maintenance activities actively including Kafka|
+Organized & hosted a pa level event called BarCamp|
+Presented several talks on pa-level events|
+Tech Stack:|
+java 11, MongoDB, Kafka, Rancher, OpenShift, reactive programming, kotlin, spring cloud, spring data|
+Prometheus, Grafana, Kafka, Elastic search, Kibana|
 
 [Nokia [Alcatel-Lucent]](https://www.nokia.com/), Chennai, India, 2014-2019|
 ---|
