@@ -8,7 +8,7 @@ Summary |
 -----|
 10 years of intensive full-stack software development experience|
 Prefers to `build the right thing` more than`building the thing right`|
-Read my recent peformance improvement journey here: [medium blog](https://medium.com/idealo-tech-blog/advanced-mongodb-performance-tuning-2ddcd01a27d2)|
+Read how I lead the performance improvement task from a 2000 events/sec to a blazing 80,000 events/sec here: [medium blog](https://medium.com/idealo-tech-blog/advanced-mongodb-performance-tuning-2ddcd01a27d2)|
 Designed several high scaling, non-blocking microservice apps in java/Spring world |
 Intensive work experience in developing cloud native, distributed micro services with modern tools like mongoDB, kafka streams, kafka connect, kubernetes, Google cloud|
 Extensively worked on distributed systems, scaling & performance tuning, GC optimization, I/O optimization, memory leak fixing and sql query optimizations |
