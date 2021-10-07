@@ -37,7 +37,7 @@ CI/CD |			Jenkins2, Argo CD
 
 Course | year | Institution | Score (%)
 ------|-------|-------------|----------
-B. Tech-IT |2007-2011| Maharaja Prithvi Engineering College| 85%
+B. Tech-IT |2007-2011| Anna University, Coimbatore | 85%
 
 ##### Resume
 [Sankarganesh_Eswaran](resume/Resume_Sankarganesh.pdf)
