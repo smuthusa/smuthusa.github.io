@@ -8,6 +8,7 @@ author_profile: true
 
 [Idealo](https://www.idealo.de/), Berlin, Germany. Senior software engineer, 2019 - Current*|
 ---------|
+[Pls take a look what my employer has to say about me](files/reference_idealo.pdf)|
 Proposed an improvement in design to tackle the growing maintenance issues with several microservice applications|
 This solution includes grouping applications with strong domain boundaries|
 Created a library, that is used by 10+ applications to simplify kaka app creation with common error handling|
