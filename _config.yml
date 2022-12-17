@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
 subtitle                 :
-name                     : "Sankarganesh Eswaran"
-description              : "Personal blog of Sankarganesh Eswaran."
-url                      : "https://sankarge.github.io/"
+name                     : "Saravanan Muthusamy"
+description              : "Personal page of Saravanan Muthusamy"
+url                      : "https://smuthusa.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sankarge"
+repository               : "smuthusa"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -93,30 +93,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sankarganesh Eswaran"
-  avatar           : "images/7.jpeg"
-  bio              : "Senior Software Consultant; Optimistic Nihilist ¯\\\_(ツ)_/¯; Strong believer in Emergence; I'm sure we are living inside simulation program, took red-pill! 💊"
+  name             : "Saravanan Muthusamy"
+  bio              : "Pragmatic Programmer, have been practicing [Clean code principles](https://x-team.com/blog/principles-clean-code/). Follower of [Uncle Bob](https://twitter.com/unclebobmartin). Working with [Davy](https://www.linkedin.com/in/davyverstappen/) and [Steven](https://www.linkedin.com/in/steven-van-hoof-a84bb5/) was a very fortunate experience"
   location         : "Chennai"
-  email            : "sankar.e555@gmail.com"
+  email            : "tosaravananm@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sankarge"
+      url: "https://github.com/smuthusa"
     - label: "stackoverflow"
       icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/2629588/sankarganesh-eswaran"
+      # url: "https://stackoverflow.com/users/"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sankarge/"
+      url: "https://www.linkedin.com/in/saravanan-muthusamy-76068b1b/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      #url: "mailto:tosaravananm@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/nulldeveloper"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -135,7 +134,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sankarge"
+      url: "https://github.com/smuthusa"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
